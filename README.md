@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm Mohammed Ghayaz Sharieff, a recent BCA graduat
 - 🎓 I recently graduated with a BCA degree from SSMRV College.
 - 🌱 I'm passionate about software development, coding, and problem-solving.
 - 💡 I'm eager to learn and explore new technologies to expand my skill set.
-- 📝 I occasionally share my insights and experiences on [Medium](Link to Medium), reflecting on my learning journey.
 
 ## Projects
 
