@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Mohammed Ghayaz Sharieff 👋</h1>
 
-<p align="center">
-  <img src="https://lottie.host/84cf5b3f-ef25-4dc4-b369-381ad8f2df57/VtYDR5Tb0N.json" alt="developer-animation" width="250" />
-</p>
 
 <p align="center">
   💻 Software Developer | 💡 Tech Enthusiast | 🤝 Always Learning and Collaborating
