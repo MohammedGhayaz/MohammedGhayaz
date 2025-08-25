@@ -1,39 +1,100 @@
-# Hello, World! 👋
+<h1 align="center">Hi, I'm Mohammed Ghayaz Sharieff 👋</h1>
 
-Welcome to my GitHub profile! I'm Mohammed Ghayaz Sharieff, a recent BCA graduate from SSMRV College. I'm enthusiastic about technology, coding, and all things related to computer science. Here, you'll find my journey as I delve into the world of programming and software development.
+<p align="center">
+  <img src="https://assets7.lottiefiles.com/packages/lf20_gnbnxbqo.json" alt="developer-animation" width="250" />
+</p>
 
-## About Me
+<p align="center">
+  💻 Software Developer | 💡 Tech Enthusiast | 🤝 Always Learning and Collaborating
+</p>
 
-- 🎓 I recently graduated with a BCA degree from SSMRV College.
-- 🌱 I'm passionate about software development, coding, and problem-solving.
-- 💡 I'm eager to learn and explore new technologies to expand my skill set.
+---
 
-## Projects
+## 🧠 About Me
 
-I'm excited to share some of my projects that showcase my skills and interests:
+- 🎓 BCA graduate from **SSMRV College**
+- 💼 Exploring opportunities in full-stack development
+- 🌐 I enjoy building projects, solving problems, and learning new tools
+- 🤝 Open to tech collaborations, mentoring, and freelance gigs
+- 🛠️ Currently deepening my skills in **React**, **Node.js**, and **automated testing**
 
-- Employee Management System.
-- Ecommmerce For Electronic Gagets.
+---
 
-Feel free to explore my repositories for more projects and code. Your feedback and suggestions are greatly appreciated!
+## 🔧 Tech Stack & Tools
 
-## Skills
+### 💻 Languages & Frameworks
 
-During my time at SSMRV College, I've gained proficiency in various areas:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
 
-- Programming Languages: Java, C, C++
-- Web Development: HTML, CSS, JavaScript
-- Database Management: SQL
-- Problem Solving: Data Structures and Algorithms
+### 🎨 Styling & UI
 
-I'm excited to continue honing these skills and learning more as I embark on my journey as a developer.
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## Connect with Me
+### 🗄️ Databases
 
-- LinkedIn: [Mohammed Ghayaz Sharieff](https://www.linkedin.com/in/contact-sharieff/)
+![SQL](https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Let's Connect
+---
 
-I'm open to collaboration, learning opportunities, and connecting with fellow developers, so feel free to reach out to me. Whether you want to discuss a project, share insights, or just have a chat, I'm all ears!
+## 📂 Projects
 
-Thank you for visiting my profile. Here's to learning, coding, and embracing the world of software development! 🚀
+📌 **Employee Management System**  
+A desktop Java app to manage employee data with CRUD operations and search features.
+
+📌 **E-commerce Website for Electronic Gadgets**  
+Frontend interface with filtering and product display using HTML/CSS/JavaScript.
+
+🛠️ *More exciting projects coming soon...*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=MohammedGhayaz&show_icons=true&theme=dark" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=MohammedGhayaz&show_icons=true&theme=default" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MohammedGhayaz&show_icons=true" alt="GitHub Stats" />
+  </picture>
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MohammedGhayaz&theme=tokyonight" alt="GitHub Streak" />
+
+  <br />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedGhayaz&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<a href="https://www.linkedin.com/in/contact-sharieff" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+---
+
+## 👀 Visitor Counter
+
+![Visitor Count](https://komarev.com/ghpvc/?username=MohammedGhayaz&label=Profile+Views&color=0e75b6&style=flat)
+
+---
+
+> ⚡ “Talk is cheap. Show me the code.” – Linus Torvalds  
+> Thanks for visiting! Let’s code something amazing together 🚀
