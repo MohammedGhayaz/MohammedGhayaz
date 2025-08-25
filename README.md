@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohammed Ghayaz Sharieff 👋</h1>
 
 <p align="center">
-  <img src="https://assets7.lottiefiles.com/packages/lf20_gnbnxbqo.json" alt="developer-animation" width="250" />
+  <img src="https://lottie.host/84cf5b3f-ef25-4dc4-b369-381ad8f2df57/VtYDR5Tb0N.json" alt="developer-animation" width="250" />
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@ Frontend interface with filtering and product display using HTML/CSS/JavaScript.
 
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MohammedGhayaz&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedGhayaz&theme=tokyonight" alt="GitHub Streak Stats" />
 
   <br />
 
@@ -86,6 +86,12 @@ Frontend interface with filtering and product display using HTML/CSS/JavaScript.
 
 <a href="https://www.linkedin.com/in/contact-sharieff" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mohammedghayazsharieff@outlook.in">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</a>
+<a href="https://portfolio-website-liard-two.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 ---
