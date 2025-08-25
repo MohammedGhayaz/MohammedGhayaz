@@ -70,10 +70,6 @@ Frontend interface with filtering and product display using HTML/CSS/JavaScript.
 
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedGhayaz&theme=tokyonight" alt="GitHub Streak Stats" />
-
-  <br />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedGhayaz&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
